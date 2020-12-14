@@ -1,7 +1,7 @@
 {
-  "name": "demo",
+  "name": "my-app",
   "version": "0.0.1-SNAPSHOT",
-  "description": "Description for demo",
+  "description": "Description for myApp",
   "private": true,
   "license": "UNLICENSED",
   "cacheDirectories": [

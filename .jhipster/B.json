@@ -1,0 +1,16 @@
+{
+  "name": "B",
+  "fields": [],
+  "relationships": [],
+  "changelogDate": "20201218154503",
+  "entityTableName": "b",
+  "dto": "no",
+  "pagination": "no",
+  "service": "no",
+  "jpaMetamodelFiltering": false,
+  "fluentMethods": true,
+  "readOnly": false,
+  "embedded": false,
+  "clientRootFolder": "",
+  "applications": "*"
+}
